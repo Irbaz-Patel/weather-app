@@ -112,6 +112,6 @@ body {
     }
 
     .weather-temp{
-        width: 4rem;
+        font-size: 4rem;
     }
 }
