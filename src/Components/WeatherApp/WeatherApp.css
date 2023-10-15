@@ -96,3 +96,22 @@ body {
 .icon{
     margin-top: 10px;
 }
+
+@media (max-width: 415px){
+    .container{
+        height:36rem ;
+        width: 24rem;
+    }
+
+    .top-bar input{
+        width: 12rem;
+    }
+
+    .weather-image img{
+        width: 5rem;
+    }
+
+    .weather-temp{
+        width: 4rem;
+    }
+}
